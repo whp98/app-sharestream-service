@@ -1,0 +1,10 @@
+POST http://localhost:8080/api/user/add
+Accept : application/json
+Content-Type: application/json
+
+{
+  "user_email" : "whp98@outlook.com",
+  "user_pwd": "123456"
+}
+
+###
